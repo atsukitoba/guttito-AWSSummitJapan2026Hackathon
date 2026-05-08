@@ -1,7 +1,7 @@
 # gutitto（ぐちっと）
 
 <p align="center">
-  <img src="./assets/hero.png" alt="gutitto - グッとくる、あなたがダメになれる誰かがいる" width="100%"/>
+  <img src="./assets/Gemini_Generated_Image_we3bewe3bewe3bew.png" alt="gutitto - グッとくる、あなたがダメになれる誰かがいる" width="100%"/>
 </p>
 
 <p align="center">
