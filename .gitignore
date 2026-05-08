@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node.js（将来の実装向け）
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Secrets
+*.pem
+*.key
+*-tokens.json
+
+# Build outputs
+dist/
+build/
+.capacitor/
+ios/Pods/
+ios/build/
+android/build/
+android/app/build/
+
+# Logs
+logs/
+*.log
+
+# AWS SAM
+.aws-sam/
+
+# AI-DLC source rules (内部参照用)
+.aidlc-source/
+
+# Kiro IDE rules (内部参照用)
+.kiro/
